@@ -12,6 +12,7 @@ const farms: FarmConfig[] = [
       4: '0xe18e460d38441027b6672363d68c9088f3d773bf',
       97: '0xb01258e6fb20bde11dab2b65b2ffa197d725c91c',
       56: '',
+      1001: '0xc3467b5978f44f0dE98AfB9efa2F68F578f9B986'
     },
     token: tokens.syrup,
     quoteToken: tokens.weth,
